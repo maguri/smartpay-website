@@ -105,7 +105,7 @@ contact_form_action = "https://formspree.io/f/mjvzjwpk" # contact form works wit
 # Preloader
 [params.preloader]
 enable = true
-preloader = "catalunya" # use .png , .svg or .gif format
+preloader = "images/preloader.gif" # use .png , .svg or .gif format
 
 # Snipcart
 [params.snipcart]
