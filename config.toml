@@ -1,0 +1,148 @@
+################################### Default Configuration ############################
+baseurl = "https://smartpay.dastions.com"
+title = "SmartPay Wallet Catalunya | Landing Site"
+theme = "digital-vex-hugo"
+# post excert
+summarylength = "20"
+# google analytics
+googleAnalytics = "" # Ex: UA-123-45
+# disable language
+defaultContentLanguage = "cat"
+disableLanguages = ['en', 'es'] # disable language from here
+
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+#################################### Plugins ##########################################
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.min.css"
+[[params.plugins.css]]
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
+
+
+###################################### Navigation ######################################
+
+# homepage section menu
+[[menu.main]]
+name = "Inici"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Productes"
+url = "products/"
+weight = 2
+
+# [[menu.main]]
+# name = "Noticies"
+# url = "blog/"
+# weight = 3
+
+[[menu.main]]
+name = "Valoracions"
+pre = "#"
+url = "testimonial"
+weight = 4
+
+[[menu.main]]
+name = "Contacte"
+url = "contact/"
+weight = 5
+
+# footer menu
+# [[menu.footer]]
+# name = "Blog"
+# url = "blog/"
+# weight = 1
+
+[[menu.footer]]
+name = "Contacte"
+url = "contact/"
+weight = 2
+
+[[menu.footer]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+weight = 3
+# 
+# [[menu.footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 4
+
+
+########################### Default parameters ##########################
+[params]
+logo = "images/logo.png"
+logo_width = "150px"
+# Meta data
+description = "Plataform Wallet Payment"
+author = "DAS"
+# currency
+currency = "€"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "catalunya" # use .png , .svg or .gif format
+
+# Snipcart
+[params.snipcart]
+enable = false
+# snipcart public api key
+# snipcart_api = ""
+
+# Subscription
+[params.subscription]
+# mailchimp subsciption
+mailchimp_form_action = ""  # replace this url with yours
+mailchimp_form_name = ""    # replace this code with yours
+
+
+################################### Catalan language #####################################
+[Languages.cat]
+languageName = "Cat"
+languageCode = "es-cat"
+contentDir = "content/catalan"
+weight = 1
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"
+
+################################### English language #####################################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"
+
+################################### English language #####################################
+[Languages.es]
+languageName = "Es"
+languageCode = "es-es"
+contentDir = "content/catalan"
+weight = 3
+# copyright
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"

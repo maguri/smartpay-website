@@ -1,0 +1,125 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Creu en la Tecnologia, Fes el canvi"
+  content: "Et presentem el Moneder més modern del mercat destinat als ajuntaments del país. La millor manera de gestionar els serveis i facilitar als ciutadans l'accessibilitat a tots els serveis que el seu ajuntament vulgui oferir."
+  image: "images/watch.png"
+  button:
+    enable: true
+    label: "Veure tots els Models"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "Característiques"
+  image: "images/watch-2.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "Disseny Antivandàlic"
+      icon: "tf-ion-ios-locked-outline"
+      content: "Dissenyat per reduir danys ocasionats per actes vandàlics."
+
+      # feature item loop
+    - title: "Pagament Segur"
+      icon: "tf-ion-card"
+      content: "Prioritat màxima en la seguretat en el pagament en línia i amb targeta bancària."
+
+      # feature item loop
+    - title: "Tickets & Factures"
+      icon: "tf-ion-document-text"
+      content: "Impressora integrada. Sol·licita la factura de forma fàcil."
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "Disseny Elegant"
+      icon: "tf-pencil2"
+      content: "Nou Disseny estàndard i integral, fàcil d'instal·lar en espais exteriors."
+
+      # feature item loop
+    - title: "Connectat Online"
+      icon: "tf-ion-ios-people"
+      content: "Fem Comunitat d'usuaris i ajuntaments per Digitalitzar els pobles."
+
+      # feature item loop
+    - title: "Múltiples Serveis"
+      icon: "tf-ion-ios-barcode-outline"
+      content: "Capacitat de connectar-se a diversos serveis i necessitats."
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/watch.png"
+  title: "Servei dissenyat per professionals, Millores il·limitades"
+  content:
+    "Amb l'experiència de professionals del sector públic, s'ha dissenyat un servei per garantir les necessitats reals dels ajuntaments petits.
+    <br><br>
+    Facilitem la gestió i administració per millorar amb serveis i atenció ciutadana"
+
+############################# About Product #######################
+about_product:
+  enable: true
+  title: "Perquè SmartPay Wallet"
+  items:
+    # about product item loop
+    - image: "images/showcase/showcase-4.png"
+      title: "Dissenyat pel teu ajuntament."
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: true
+        label: "Check Features"
+        link: "#/"
+
+    # about product item loop
+    - image: "images/showcase/showcase-3.png"
+      title: "Lorem ipsum dolor sit amet."
+      content:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
+        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
+        quas, quo harum deserunt consequatur cumque!"
+      button:
+        enable: false
+        label: "Check Features"
+        link: "#/"
+
+#################################### Products ########################
+products:
+  enable: true
+  title: "Checkout Our All Products"
+
+################################## Subscription ###################
+subscription:
+  enable: true
+  bg_image: "images/call-to-action.jpg"
+  title: "Get Product Updates"
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder: "Your Email Address Here"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: true
+  title: "Watch Review"
+  testimonial_item:
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."

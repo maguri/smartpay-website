@@ -1,0 +1,123 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Creu en la Tecnologia, Fes el canvi"
+  content: "Et presentem el Moneder més modern del mercat destinat als ajuntaments del país. La millor manera de gestionar els serveis i facilitar als ciutadans l'accessibilitat a tots els serveis que el seu ajuntament vulgui oferir."
+  image: "images/watch.png"
+  button:
+    enable: true
+    label: "Veure tots els Models"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "Característiques"
+  image: "images/watch-2.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "Disseny Antivandàlic"
+      icon: "tf-ion-ios-locked-outline"
+      content: "Dissenyat per reduir danys ocasionats per actes vandàlics."
+
+      # feature item loop
+    - title: "Pagament Segur"
+      icon: "tf-ion-card"
+      content: "Prioritat màxima en la seguretat en el pagament en línia i amb targeta bancària."
+
+      # feature item loop
+    - title: "Tickets & Factures"
+      icon: "tf-ion-document-text"
+      content: "Impressora integrada. Sol·licita la factura de forma fàcil."
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "Disseny Elegant"
+      icon: "tf-pencil2"
+      content: "Nou Disseny estàndard i integral, fàcil d'instal·lar en espais exteriors."
+
+      # feature item loop
+    - title: "Connectat En linea"
+      icon: "tf-ion-ios-people"
+      content: "Fem Comunitat d'usuaris i ajuntaments per Digitalitzar els pobles."
+
+      # feature item loop
+    - title: "Múltiples Serveis"
+      icon: "tf-ion-ios-barcode-outline"
+      content: "Capacitat de connectar-se a diversos serveis i necessitats."
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/watch.png"
+  title: "Dissenyat des de l'experiència, Possibilitats il·limitades"
+  content:
+    "Amb l'experiència de professionals del sector públic i de camp, s'ha dissenyat un servei per garantir les necessitats reals dels ajuntaments.
+    <br><br>
+    Digitalitzem el pagament en inifitat de serveis per facilitar la gestió i administració amb la ciutadania."
+
+############################# About Product #######################
+about_product:
+  enable: true
+  title: "Moneder SmartPay"
+  items:
+    # about product item loop
+    - image: "images/town.png"
+      title: "Dissenyat pel teu Ajuntament"
+      content:
+        "Amb una xarxa de comercials experts en el servei dedicat a integrar. 
+        Plans i Tarifes adaptats a les necessitats"
+      button:
+        enable: true
+        label: "Plan Base"
+        link: "/products/town-plan"
+
+    # about product item loop
+    - image: "images/truckscales.png"
+      title: "Sistemes de Pesatje i més..."
+      content:
+        "Aquest Moneder dissenyat principalment per donar servei a les bàscules públiques dels ajuntaments, 
+        está adaptat per connectar diversos serveis com "
+      button:
+        enable: false
+        label: "Característiques"
+        link: "#/"
+
+#################################### Products ########################
+products:
+  enable: false
+  title: "Checkout Our All Products"
+
+################################## Subscription ###################
+subscription:
+  enable: true
+  bg_image: "images/call-to-action.jpg"
+  title: "Mantingui'm actualitzat"
+  content: "Per estar al dia de les noves actualitzacions i nous productes"
+  placeholder: "Escriu la teva adreça de correu electrònic"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: true
+  title: "Valoracions"
+  testimonial_item:
+    # testimonial item loop
+    - name: "German Mauri"
+      designation: "Comercial, Bàscules Mauri"
+      image: "images/avatar1.jpg"
+      content: "Estic molt content de poder comercialitzar aquest producte i oferir un sistema de pagament modern i segur en les meves bàscules de camions arreu de Catalunya."
+
+    # testimonial item loop
+    - name: "Anònim"
+      designation: "Alcalde"
+      image: "images/avatar2.png"
+      content: "Estem molt interessats a poder instal·lar aquest nou sistema de pagament a la bàscula del poble perquè hi puguin pesar tots els qui ho vulguin i recaptar els diners de forma informàtica sense moure's de l'ordinador."
+
+    # testimonial item loop
+    - name: "Anònim"
+      designation: "Alcaldesa"
+      image: "images/avatar3.png"
+      content: "Aquest sistema de pagament és molt prometedor i s'adapta a les nostres necessitats. Si va bé, ho instal·larem en bombes d'aigua i al nou pàrquing que volem construir a l'entrada del poble!"
