@@ -80,7 +80,7 @@ about_product:
       title: "Sistemes de Pesatje i més..."
       content:
         "Aquest Moneder dissenyat principalment per donar servei a les bàscules públiques dels ajuntaments, 
-        está adaptat per connectar diversos serveis com "
+        está adaptat per connectar diversos serveis com Pàrquings, Benzineres, Carregadors elèctrics, bombes d'aigua, etc"
       button:
         enable: false
         label: "Característiques"
