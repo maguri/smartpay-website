@@ -96,7 +96,7 @@ logo = "images/logo.png"
 logo_width = "150px"
 # Meta data
 description = "Plataform Wallet Payment"
-author = "DAS"
+author = "Digital Application Solutions SL"
 # currency
 currency = "€"
 # contact form action
