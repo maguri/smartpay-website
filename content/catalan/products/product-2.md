@@ -7,8 +7,7 @@ images:
   - "images/card-app.png"
   - "images/mobile1.png"
   - "images/mobile2.png"
-  - "images/city-plan.png"
-  - "images/card.jpg"
+  - "images/card-pay.png"
 
 # meta description
 description : "this is meta description"
