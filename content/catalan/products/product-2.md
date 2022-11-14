@@ -10,7 +10,7 @@ images:
   - "images/card-pay.png"
 
 # meta description
-description : "this is meta description"
+description : "Terminal de Pago sin monedas, barato, ayuntamientos públicos"
 
 # product Price
 price: "5.000,00"

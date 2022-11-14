@@ -9,10 +9,10 @@ images:
   - "images/mobile2.png"
 
 # meta description
-description : "this is meta description"
+description : "Terminal de Pago sin monedas, barato, ayuntamientos públicos"
 
 # product Price
-price: "4.700,00"
+price: "4.750,00"
 discount_price: "3.950,00"
 
 # product variation
