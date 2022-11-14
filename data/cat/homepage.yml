@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Creu en la Tecnologia, Fes el canvi"
   content: "Et presentem el Moneder més modern del mercat destinat als ajuntaments del país. La millor manera de gestionar els serveis i facilitar als ciutadans l'accessibilitat a tots els serveis que el seu ajuntament vulgui oferir."
-  image: "images/watch.png"
+  image: "images/terminal-orange.png"
   button:
     enable: true
     label: "Veure tots els Models"
@@ -13,7 +13,7 @@ banner:
 features:
   enable: true
   title: "Característiques"
-  image: "images/watch-2.png"
+  image: "images/real-terminal-3d.png"
 
   # feature at the left of the image
   left_side:
@@ -52,7 +52,7 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
+  image: "images/mobile2.png"
   title: "Dissenyat des de l'experiència, Possibilitats il·limitades"
   content:
     "Amb l'experiència de professionals del sector públic i de camp, s'ha dissenyat un servei per garantir les necessitats reals dels ajuntaments.

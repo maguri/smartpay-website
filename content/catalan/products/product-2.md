@@ -1,12 +1,13 @@
 ---
-title: "Redmi Watch"
+title: "App & Card"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-5.png"
 images: 
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "images/terminal-orange.png"
+  - "images/card-app.png"
+  - "images/mobile1.png"
+  - "images/mobile2.png"
+  - "images/city-plan.png"
+  - "images/card.jpg"
 
 # meta description
 description : "this is meta description"
