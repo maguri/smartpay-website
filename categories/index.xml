@@ -6,10 +6,6 @@
     <description>Recent content in Categories on SmartPay Wallet Catalunya | Landing Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-cat</language>
-    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Powered by [Digital Application Solutions](#)</copyright>
-    
-	<atom:link href="https://smartpay.dastions.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Powered by [Digital Application Solutions](#)</copyright><atom:link href="https://smartpay.dastions.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
