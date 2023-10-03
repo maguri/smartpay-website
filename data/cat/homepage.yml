@@ -105,9 +105,9 @@ testimonial:
   title: "Valoracions"
   testimonial_item:
     # testimonial item loop
-    - name: "Esther Pallas"
+    - name: "Albert Guiu"
       designation: "Comercial de pesatge"
-      image: "images/avatar2.jpg"
+      image: "images/avatar2.png"
       content: "Estic molt contenta de poder comercialitzar aquest producte i oferir un sistema de pagament modern i segur en les meves bàscules de camions arreu de Catalunya."
 
     # testimonial item loop
