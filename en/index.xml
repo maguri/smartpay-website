@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SmartPay Wallet Catalunya | Landing Site</title>
+    <link>https://smartpay.dastions.com/en/</link>
+    <description>Recent content on SmartPay Wallet Catalunya | Landing Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Powered by [Digital Application Solutions](#)</copyright>
+    <lastBuildDate>Tue, 01 Nov 2022 10:00:00 +0600</lastBuildDate><atom:link href="https://smartpay.dastions.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City Plan</title>
+      <link>https://smartpay.dastions.com/en/products/plan-city/</link>
+      <pubDate>Tue, 01 Nov 2022 10:00:00 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/en/products/plan-city/</guid>
+      <description>Pla Mensual per un poble que vulgui començar amb diversos Moneders o requereixi de molts usuaris amb targeta física QR.</description>
+    </item>
+    
+    <item>
+      <title>Town Plan</title>
+      <link>https://smartpay.dastions.com/en/products/plan-town/</link>
+      <pubDate>Tue, 01 Nov 2022 10:00:00 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/en/products/plan-town/</guid>
+      <description>Pla Mensual per un petit poble que vulgui començar amb 1 o 2 Moneders i no requereixi molts usuaris amb targeta física QR.</description>
+    </item>
+    
+    <item>
+      <title>Comment choisir la bonne montre pour vous.</title>
+      <link>https://smartpay.dastions.com/en/blog/post-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/en/blog/post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Meilleur bracelet de montre dans votre budget</title>
+      <link>https://smartpay.dastions.com/en/blog/post-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/en/blog/post-3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi acheter une montre intelligente.</title>
+      <link>https://smartpay.dastions.com/en/blog/post-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/en/blog/post-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>QR App</title>
+      <link>https://smartpay.dastions.com/en/products/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/en/products/product-1/</guid>
+      <description>Terminal de Pagament sense monedes, 100% Online y segur. Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.</description>
+    </item>
+    
+    <item>
+      <title>Regardez ça compte</title>
+      <link>https://smartpay.dastions.com/en/blog/post-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/en/blog/post-4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
