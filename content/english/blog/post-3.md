@@ -1,5 +1,5 @@
 ---
-title: "Best Watch Strap In Your Budget"
+title: "Meilleur bracelet de montre dans votre budget"
 date: 2019-10-17T11:22:16+06:00
 image: "images/showcase/showcase-3.png"
 description : "this is a meta description"

@@ -1,126 +1,123 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Believe in Technology, Make the change"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image: "images/watch.png"
+  title: "Creu en la Tecnologia, Fes el canvi (es)"
+  content: "Et presentem el Moneder més modern del mercat destinat als ajuntaments del país. La millor manera de gestionar els serveis i facilitar als ciutadans l'accessibilitat a tots els serveis que el seu ajuntament vulgui oferir."
+  image: "images/terminal-orange.png"
   button:
     enable: true
-    label: "Browse All Products"
+    label: "Veure tots els Models"
     link: "products/"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Our Core Features"
-  image: "images/watch-2.png"
+  title: "Característiques"
+  image: "images/real-terminal-3d.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Disseny Antivandàlic"
+      icon: "tf-ion-ios-locked-outline"
+      content: "Dissenyat per reduir danys ocasionats per actes vandàlics."
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Pagament Segur"
+      icon: "tf-ion-card"
+      content: "Prioritat màxima en la seguretat en el pagament en línia i amb targeta bancària."
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Tickets & Factures"
+      icon: "tf-ion-document-text"
+      content: "Impressora integrada. Sol·licita la factura de forma fàcil."
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Smooth Touch"
-      icon: "tf-ion-ios-alarm-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Disseny Elegant"
+      icon: "tf-pencil2"
+      content: "Nou Disseny estàndard i integral, fàcil d'instal·lar en espais exteriors."
 
       # feature item loop
-    - title: "Elegant Design"
-      icon: "tf-ion-ios-bell-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Connectat En linea"
+      icon: "tf-ion-ios-people"
+      content: "Fem Comunitat d'usuaris i ajuntaments per Digitalitzar els pobles."
 
       # feature item loop
-    - title: "Easy Pricing"
-      icon: "tf-ion-ios-cart-outline"
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    - title: "Múltiples Serveis"
+      icon: "tf-ion-ios-barcode-outline"
+      content: "Capacitat de connectar-se a diversos serveis i necessitats."
 
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
-  title: "Designed by professional , the benefit for creative gigs"
+  image: "images/mobile2.png"
+  title: "Dissenyat des de l'experiència, Possibilitats il·limitades"
   content:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-    nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
+    "Amb l'experiència de professionals del sector públic i de camp, s'ha dissenyat un servei per garantir les necessitats reals dels ajuntaments.
     <br><br>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+    Digitalitzem el pagament en inifitat de serveis per facilitar la gestió i administració amb la ciutadania."
 
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Why Choose Apple Watch"
+  title: "Moneder SmartPay"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/town.png"
+      title: "Dissenyat pel teu Ajuntament"
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Amb una xarxa de comercials experts en el servei dedicat a integrar. 
+        Plans i Tarifes adaptats a les necessitats"
       button:
-        enable: false
-        label: "Check Features"
-        link: "#/"
+        enable: true
+        label: "Plan Base"
+        link: "/products/plan-town"
 
     # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/truckscales.png"
+      title: "Sistemes de Pesatje i més..."
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Aquest Moneder dissenyat principalment per donar servei a les bàscules públiques dels ajuntaments, 
+        está adaptat per connectar diversos serveis com Pàrquings, Benzineres, Carregadors elèctrics, bombes d'aigua, etc"
       button:
         enable: false
-        label: "Check Features"
+        label: "Característiques"
         link: "#/"
 
 #################################### Products ########################
 products:
-  enable: true
+  enable: false
   title: "Checkout Our All Products"
 
 ################################## Subscription ###################
 subscription:
   enable: true
   bg_image: "images/call-to-action.jpg"
-  title: "Get Product Updates"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder: "Your Email Address Here"
+  title: "Mantingui'm actualitzat"
+  content: "Per estar al dia de les noves actualitzacions i nous productes"
+  placeholder: "Escriu la teva adreça de correu electrònic"
 
 ############################## Testimonial ##########################
 testimonial:
   enable: true
-  title: "Watch Review"
+  title: "Valoracions"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Albert Guiu"
+      designation: "Comercial de pesatge"
+      image: "images/avatar2.png"
+      content: "Estic molt contenta de poder comercialitzar aquest producte i oferir un sistema de pagament modern i segur en les meves bàscules de camions arreu de Catalunya."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Anònim"
+      designation: "Alcalde"
+      image: "images/avatar2.png"
+      content: "Estem molt interessats a poder instal·lar aquest nou sistema de pagament a la bàscula del poble perquè hi puguin pesar tots els qui ho vulguin i recaptar els diners de forma informàtica sense moure's de l'ordinador."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Anònim"
+      designation: "Alcaldesa"
+      image: "images/avatar3.png"
+      content: "Aquest sistema de pagament és molt prometedor i s'adapta a les nostres necessitats. Si va bé, ho instal·larem en bombes d'aigua i al nou pàrquing que volem construir a l'entrada del poble!"

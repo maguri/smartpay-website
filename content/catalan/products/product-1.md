@@ -2,7 +2,7 @@
 title: "QR App"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/terminal-grey.png"
+  - "images/terminal-orange.png"
   - "images/real-terminal-3d.png"
   - "images/qr-app.png"
   - "images/mobile1.png"

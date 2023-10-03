@@ -8,7 +8,7 @@ summarylength = "20"
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
 defaultContentLanguage = "cat"
-disableLanguages = ['en', 'es'] # disable language from here
+disableLanguages = ['es'] # disable language from here
 
 # unsafe html
 [markup.goldmark.renderer]

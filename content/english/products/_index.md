@@ -1,6 +1,6 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
+title: "Moneders i Plans Disponibles"
+description : "Productes: Moneders de Báscula, Pagament amb targeta, App QR"
 draft: false
 ---
 

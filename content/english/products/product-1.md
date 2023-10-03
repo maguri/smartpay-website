@@ -1,27 +1,47 @@
 ---
-title: "Apple Watch"
+title: "QR App"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "images/terminal-orange.png"
+  - "images/real-terminal-3d.png"
+  - "images/qr-app.png"
+  - "images/mobile1.png"
+  - "images/mobile2.png"
 
 # meta description
-description : "this is meta description"
+description : "Terminal de Pago sin monedas, barato, ayuntamientos públicos, QR"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "4.750,00"
+discount_price: "3.950,00"
 
 # product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
+colors : ["gris","inox", "Alumini"]
+# sizes : ["small","medium","large"]
 
 # button link if you don't want to use snipcart. empty link will not show button
-button_link: "#"
+button_link: "contact"
 
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Terminal de Pagament sense monedes, 100% Online y segur.
+Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.
+Sistema compatible amb: bàscules, pàrquing, carregadors públics...
+Disseny Antivandàlic: embegut en obra civil. Construcció inoxidable o aluminio pintat al forn.
+Impressora tiquet i tiquet digital en App.
+
+**Inclou:**
+- Opció QR: Mitjançant App i 2FA Pagament Online.
+- Opció QR Socis amb Servei Gratuït.
+- Opció Cupons de descompte
+- ~~Opció TPV: Pagament Estàndar Bancari amb Targeta Contacless.~~
+
+*No inclou Tarifa ni Connexió a Internet, o 4G.*
+
+**Pagament segur amb cumplment de:**
+- *Certificat PCI*
+- *Informes de Controls de Sistemes i Organizacions (CSO)*
+- *Marc en ciberseguretat del NIST*
+[leer más...](/terms-conditions/)
+
