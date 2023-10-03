@@ -105,10 +105,10 @@ testimonial:
   title: "Valoracions"
   testimonial_item:
     # testimonial item loop
-    - name: "German Mauri"
-      designation: "Comercial, Bàscules Mauri"
-      image: "images/avatar1.jpg"
-      content: "Estic molt content de poder comercialitzar aquest producte i oferir un sistema de pagament modern i segur en les meves bàscules de camions arreu de Catalunya."
+    - name: "Esther Pallas"
+      designation: "Comercial de pesatge"
+      image: "images/avatar2.jpg"
+      content: "Estic molt contenta de poder comercialitzar aquest producte i oferir un sistema de pagament modern i segur en les meves bàscules de camions arreu de Catalunya."
 
     # testimonial item loop
     - name: "Anònim"
