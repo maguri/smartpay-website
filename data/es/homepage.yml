@@ -1,24 +1,24 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Creu en la Tecnologia, Fes el canvi"
-  content: "Et presentem el Moneder més modern del mercat destinat als ajuntaments del país. La millor manera de gestionar els serveis i facilitar als ciutadans l'accessibilitat a tots els serveis que el seu ajuntament vulgui oferir."
+  title: "Cree en la Tecnologia y haz el cambio"
+  content: "Et presentem el Terminal de pago sin monedas más moderno del mercado destinado para cualquier servicio. Acepta de forma rápida y segura pagos o donaciones. Facilita al ciudadano el uso de cualquier servicio."
   image: "images/watch.png"
   button:
     enable: true
-    label: "Veure tots els Models"
+    label: "Ver todos los Modelos"
     link: "products/"
 
 ############################# Feature ############################
 features:
   enable: true
-  title: "Característiques"
+  title: "Características"
   image: "images/watch-2.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Disseny Antivandàlic"
+    - title: "Diseño Antivandálico"
       icon: "tf-ion-ios-locked-outline"
       content: "Dissenyat per reduir danys ocasionats per actes vandàlics."
 

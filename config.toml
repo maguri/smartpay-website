@@ -8,7 +8,7 @@ summarylength = "20"
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
 defaultContentLanguage = "cat"
-disableLanguages = ['es'] # disable language from here
+disableLanguages = ['en'] # disable language from here
 
 # unsafe html
 [markup.goldmark.renderer]
@@ -142,7 +142,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [D
 [Languages.es]
 languageName = "Es"
 languageCode = "es-es"
-contentDir = "content/catalan"
+contentDir = "content/english"
 weight = 3
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"

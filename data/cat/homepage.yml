@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Creu en la Tecnologia, Fes el canvi"
   content: "Et presentem el Moneder més modern del mercat destinat als ajuntaments del país. La millor manera de gestionar els serveis i facilitar als ciutadans l'accessibilitat a tots els serveis que el seu ajuntament vulgui oferir."
-  image: "images/terminal-orange.png"
+  image: "images/terminal-tottem.png"
   button:
     enable: true
     label: "Veure tots els Models"
