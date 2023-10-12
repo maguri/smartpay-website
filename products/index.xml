@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moneders i Plans Disponibles on SmartPay Wallet Catalunya | Landing Site</title>
+    <title>Terminals i Plans Disponibles on SmartPay Wallet Catalunya | Landing Site</title>
     <link>https://smartpay.dastions.com/products/</link>
-    <description>Recent content in Moneders i Plans Disponibles on SmartPay Wallet Catalunya | Landing Site</description>
+    <description>Recent content in Terminals i Plans Disponibles on SmartPay Wallet Catalunya | Landing Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-cat</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Powered by [Digital Application Solutions](#)</copyright>
@@ -28,10 +28,19 @@
     
     <item>
       <title>QR App</title>
-      <link>https://smartpay.dastions.com/products/product-1/</link>
+      <link>https://smartpay.dastions.com/products/terminal-tottem/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://smartpay.dastions.com/products/product-1/</guid>
+      <guid>https://smartpay.dastions.com/products/terminal-tottem/</guid>
+      <description>Terminal de Pagament sense monedes, 100% Online y segur. Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.</description>
+    </item>
+    
+    <item>
+      <title>Terminal Basic</title>
+      <link>https://smartpay.dastions.com/products/terminal-pared/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/products/terminal-pared/</guid>
       <description>Terminal de Pagament sense monedes, 100% Online y segur. Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.</description>
     </item>
     

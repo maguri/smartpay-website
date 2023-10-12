@@ -58,10 +58,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     
     <item>
       <title>QR App</title>
-      <link>https://smartpay.dastions.com/products/product-1/</link>
+      <link>https://smartpay.dastions.com/products/terminal-tottem/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>https://smartpay.dastions.com/products/product-1/</guid>
+      <guid>https://smartpay.dastions.com/products/terminal-tottem/</guid>
       <description>Terminal de Pagament sense monedes, 100% Online y segur. Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.</description>
     </item>
     
@@ -73,6 +73,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
       <guid>https://smartpay.dastions.com/blog/post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Terminal Basic</title>
+      <link>https://smartpay.dastions.com/products/terminal-pared/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://smartpay.dastions.com/products/terminal-pared/</guid>
+      <description>Terminal de Pagament sense monedes, 100% Online y segur. Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.</description>
     </item>
     
   </channel>

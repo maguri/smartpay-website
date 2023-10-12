@@ -4,36 +4,13 @@
   <url>
     <loc>https://smartpay.dastions.com/products/plan-city/</loc>
     <lastmod>2022-11-01T10:00:00+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/products/plan-city/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/products/plan-city/"
-                />
-  </url><url>
-    <loc>https://smartpay.dastions.com/products/</loc>
-    <lastmod>2022-11-01T10:00:00+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/products/"
-                />
   </url><url>
     <loc>https://smartpay.dastions.com/</loc>
     <lastmod>2022-11-01T10:00:00+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/"
+                hreflang="es"
+                href="https://smartpay.dastions.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -41,102 +18,38 @@
                 href="https://smartpay.dastions.com/"
                 />
   </url><url>
+    <loc>https://smartpay.dastions.com/products/</loc>
+    <lastmod>2022-11-01T10:00:00+06:00</lastmod>
+  </url><url>
     <loc>https://smartpay.dastions.com/products/plan-town/</loc>
     <lastmod>2022-11-01T10:00:00+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/products/plan-town/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/products/plan-town/"
-                />
   </url><url>
     <loc>https://smartpay.dastions.com/blog/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/blog/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/blog/post-1/"
-                />
   </url><url>
     <loc>https://smartpay.dastions.com/blog/post-3/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/blog/post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/blog/post-3/"
-                />
   </url><url>
     <loc>https://smartpay.dastions.com/blog/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/blog/"
-                />
   </url><url>
     <loc>https://smartpay.dastions.com/blog/post-2/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/blog/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/blog/post-2/"
-                />
   </url><url>
-    <loc>https://smartpay.dastions.com/products/product-1/</loc>
+    <loc>https://smartpay.dastions.com/products/terminal-tottem/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/products/product-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/products/product-1/"
-                />
   </url><url>
     <loc>https://smartpay.dastions.com/blog/post-4/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/blog/post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/blog/post-4/"
-                />
+  </url><url>
+    <loc>https://smartpay.dastions.com/products/terminal-pared/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url><url>
     <loc>https://smartpay.dastions.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/categories/"
+                hreflang="es"
+                href="https://smartpay.dastions.com/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -145,22 +58,12 @@
                 />
   </url><url>
     <loc>https://smartpay.dastions.com/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/contact/"
-                />
   </url><url>
     <loc>https://smartpay.dastions.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/tags/"
+                hreflang="es"
+                href="https://smartpay.dastions.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -169,27 +72,7 @@
                 />
   </url><url>
     <loc>https://smartpay.dastions.com/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/privacy-policy/"
-                />
   </url><url>
     <loc>https://smartpay.dastions.com/terms-conditions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://smartpay.dastions.com/en/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://smartpay.dastions.com/terms-conditions/"
-                />
   </url>
 </urlset>
