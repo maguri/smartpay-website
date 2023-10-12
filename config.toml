@@ -142,7 +142,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [D
 [Languages.es]
 languageName = "Es"
 languageCode = "es-es"
-contentDir = "content/english"
+contentDir = "content/spanish"
 weight = 3
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"

@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Cree en la Tecnologia y haz el cambio"
   content: "Et presentem el Terminal de pago sin monedas más moderno del mercado destinado para cualquier servicio. Acepta de forma rápida y segura pagos o donaciones. Facilita al ciudadano el uso de cualquier servicio."
-  image: "images/watch.png"
+  image: "images/terminal-tottem.png"
   button:
     enable: true
     label: "Ver todos los Modelos"
