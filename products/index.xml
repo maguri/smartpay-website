@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminals i Plans Disponibles on SmartPay Terminal | TruckScale</title>
-    <link>/products/</link>
+    <link>https://smartpay.dastions.com/products/</link>
     <description>Recent content in Terminals i Plans Disponibles on SmartPay Terminal | TruckScale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Powered by [Digital Application Solutions](#)</copyright>
-    <lastBuildDate>Tue, 01 Nov 2022 10:00:00 +0600</lastBuildDate><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 10:00:00 +0600</lastBuildDate><atom:link href="https://smartpay.dastions.com/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>City Plan</title>
-      <link>/products/plan-city/</link>
+      <link>https://smartpay.dastions.com/products/plan-city/</link>
       <pubDate>Tue, 01 Nov 2022 10:00:00 +0600</pubDate>
       
-      <guid>/products/plan-city/</guid>
+      <guid>https://smartpay.dastions.com/products/plan-city/</guid>
       <description>Servicio web online para la gestión de usuarios, pagos y transaccionesun para 1 o más Monederos.
  1 usuari Administrador. Identificación por targeta QR única física o virtual.</description>
     </item>
     
     <item>
       <title>Town Plan</title>
-      <link>/products/plan-town/</link>
+      <link>https://smartpay.dastions.com/products/plan-town/</link>
       <pubDate>Tue, 01 Nov 2022 10:00:00 +0600</pubDate>
       
-      <guid>/products/plan-town/</guid>
+      <guid>https://smartpay.dastions.com/products/plan-town/</guid>
       <description>Servicio web online para la gestión de usuarios, pagos y transaccionesun para 1 o más Monederos.
  1 usuari Administrador. Identificación por targeta QR única física o virtual.</description>
     </item>
     
     <item>
       <title>Terminal Basic</title>
-      <link>/products/terminal-pared/</link>
+      <link>https://smartpay.dastions.com/products/terminal-pared/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/terminal-pared/</guid>
+      <guid>https://smartpay.dastions.com/products/terminal-pared/</guid>
       <description>Terminal de Pagament sense monedes, 100% Online y segur. Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.</description>
     </item>
     
     <item>
       <title>Totem</title>
-      <link>/products/terminal-tottem/</link>
+      <link>https://smartpay.dastions.com/products/terminal-tottem/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/products/terminal-tottem/</guid>
+      <guid>https://smartpay.dastions.com/products/terminal-tottem/</guid>
       <description>Terminal de Pagament sense monedes, 100% Online y segur. Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.</description>
     </item>
     
     <item>
       <title>Módul Solar</title>
-      <link>/products/modulo-solar/</link>
+      <link>https://smartpay.dastions.com/products/modulo-solar/</link>
       <pubDate>Thu, 01 Jan 1970 00:33:43 +0000</pubDate>
       
-      <guid>/products/modulo-solar/</guid>
+      <guid>https://smartpay.dastions.com/products/modulo-solar/</guid>
       <description>Descripcion</description>
     </item>
     
     <item>
       <title>Módulo Térmico</title>
-      <link>/products/modulo-refrigeracion/</link>
+      <link>https://smartpay.dastions.com/products/modulo-refrigeracion/</link>
       <pubDate>Thu, 01 Jan 1970 00:33:43 +0000</pubDate>
       
-      <guid>/products/modulo-refrigeracion/</guid>
+      <guid>https://smartpay.dastions.com/products/modulo-refrigeracion/</guid>
       <description>Descripcion</description>
     </item>
     
