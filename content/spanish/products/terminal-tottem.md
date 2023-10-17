@@ -1,5 +1,5 @@
 ---
-title: "Tottem"
+title: "Totem"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/terminal-tottem.png"
@@ -8,14 +8,14 @@ images:
   - "images/mobile2.png"
 
 # meta description
-description : "Terminal Tottem amb peu"
+description : "Terminal Totem de pie"
 
 # product Price
-price: "5.750,00"
-discount_price: "4.850,00"
+price: "€ 5.750,00"
+discount_price: "€ 4.850,00"
 
 # product variation
-colors : ["gris","inox", "Alumini"]
+colors : ["gris","inox", "totem"]
 # sizes : ["small","medium","large"]
 
 # button link if you don't want to use snipcart. empty link will not show button

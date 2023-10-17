@@ -72,15 +72,15 @@ about_product:
         Plans i Tarifes adaptats a les necessitats"
       button:
         enable: true
-        label: "Plan Base"
-        link: "/products/plan-town"
+        label: "veure més"
+        link: "/products"
 
     # about product item loop
     - image: "images/truckscales.png"
-      title: "Sistemes de Pesatje i més..."
+      title: "Aplicacions disponibles"
       content:
         "Aquest Moneder dissenyat principalment per donar servei a les bàscules públiques dels ajuntaments, 
-        está adaptat per connectar diversos serveis com Pàrquings, Benzineres, Carregadors elèctrics, bombes d'aigua, etc"
+        está adaptat per connectar diversos serveis com Pàrquings, Carregadors elèctrics, bombes d'aigua, etc"
       button:
         enable: false
         label: "Característiques"

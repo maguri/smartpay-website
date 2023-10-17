@@ -11,8 +11,8 @@ images:
 description : "Plan Mensual para la plataforma Monedero SmartPay Wallet"
 
 # product Price
-price: " 1164,50"
-discount_price: " 48,90 / mes"
+# price: " 1164,50"
+discount_price: "Servicio web"
 
 # product variation
 # colors : ["black","white","gray"]
@@ -24,13 +24,17 @@ button_link: "/contact"
 draft: false
 ---
 
-Pla Mensual per un petit poble que vulgui començar amb 1 o 2 Moneders i no requereixi molts usuaris amb targeta física QR.
+Servicio web online para la gestión de usuarios, pagos y transaccionesun para 1 o más Monederos.
 - **1 usuari** Administrador.
-- Preu per targeta QR única: **4,99 €** (100 Usuaris sense App).
-- 2 Terminals vinculables a l'Aplicació de l'Ajuntament.
-    - *Terminal Extra:* ***19,90 €/mes.***
+- Identificación por **targeta QR única** física o virtual.
+- 1 Terminal vinculable a l'Aplicación de la propiedad.
+    - *Terminales Extra disponibles*
 
-**3 mesos inclosos amb la Compra del 1r Moneder**
+Incluye Gestiones y Mantenimiento del Servicio En Linea.
+*No incluye el Internet a Campo*
 
-Aquesta tarifa inclou Gestions y Mantenimient del Servei En Linea.
-*No inclou Accés de Internet a Camp*
+**Pago seguro con cumpliento de:**
+- *Certificate PCI*
+- *Informes de Control de Sistemas y Organizaciones (CSO)*
+- *Marco en ciberseguridad del NIST*
+[leer más...](/terms-conditions/)

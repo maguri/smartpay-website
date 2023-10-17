@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Cree en la Tecnologia y haz el cambio"
-  content: "Et presentem el Terminal de pago sin monedas más moderno del mercado destinado para cualquier servicio. Acepta de forma rápida y segura pagos o donaciones. Facilita al ciudadano el uso de cualquier servicio."
+  content: "Te presentamos el Terminal de pago sin monedas más moderno del mercado destinado para cualquier servicio. Acepta de forma rápida y segura **pagos online**. Facilita al ciudadano el uso de cualquier servicio."
   image: "images/terminal-tottem.png"
   button:
     enable: true
@@ -13,113 +13,120 @@ banner:
 features:
   enable: true
   title: "Características"
-  image: "images/watch-2.png"
+  image: "images/real-terminal-3d.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
     - title: "Diseño Antivandálico"
       icon: "tf-ion-ios-locked-outline"
-      content: "Dissenyat per reduir danys ocasionats per actes vandàlics."
+      content: "Diseñados para reducir daños ocasionales y actos vandálicos."
 
       # feature item loop
-    - title: "Pagament Segur"
+    - title: "Pago seguro"
       icon: "tf-ion-card"
-      content: "Prioritat màxima en la seguretat en el pagament en línia i amb targeta bancària."
+      content: "Maxima prioridad en la seguridad de pago en línia, tarjeta de bancaria y web
+      ."
 
       # feature item loop
-    - title: "Tickets & Factures"
+    - title: "Tickets & Facturas"
       icon: "tf-ion-document-text"
-      content: "Impressora integrada. Sol·licita la factura de forma fàcil."
+      content: "Impresora integrada. Solicite su factura de forma sencilla."
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Disseny Elegant"
+    - title: "Diseño ergonómico y elegante"
       icon: "tf-pencil2"
-      content: "Nou Disseny estàndard i integral, fàcil d'instal·lar en espais exteriors."
+      content: "Diseño exterior estandar y en pared, facil de instalar."
 
       # feature item loop
-    - title: "Connectat Online"
+    - title: "Conectaté en linea"
       icon: "tf-ion-ios-people"
-      content: "Fem Comunitat d'usuaris i ajuntaments per Digitalitzar els pobles."
+      content: "Accesibilidad por internet o 4G/5G."
 
       # feature item loop
-    - title: "Múltiples Serveis"
+    - title: "Multiples servicios"
       icon: "tf-ion-ios-barcode-outline"
-      content: "Capacitat de connectar-se a diversos serveis i necessitats."
+      content: "Puede dar servicio a diferentes necesidades o servicios."
 
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/watch.png"
-  title: "Servei dissenyat per professionals, Millores il·limitades"
+  image: "images/mobile2.png"
+  title: "Diseñado desde la experiencia, posibilidades ilimitadas."
   content:
-    "Amb l'experiència de professionals del sector públic, s'ha dissenyat un servei per garantir les necessitats reals dels ajuntaments petits.
+    " Con nuestra experiencia y necesidades de nuestros clientes hemos diseñado para básculas municipales, sistema de riego, servicio de pago en parking, donativos y accesos.
     <br><br>
-    Facilitem la gestió i administració per millorar amb serveis i atenció ciutadana"
+    Facilitamos la gestión y administración para mejorar el servicio y la atención ciudadana.
+    Creamos comunidad."
 
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Perquè SmartPay Wallet"
+  title: "¿Porqué SmartPay Wallet?"
   items:
     # about product item loop
-    - image: "images/showcase/showcase-4.png"
-      title: "Dissenyat pel teu ajuntament."
+    - image: "images/town-es.png"
+      title: "Diseñado para ayuntamientos."
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Los hurtos en dispositivos de monedas exteriores han generado una gran desconfianza en los **servicios publicos**.
+        
+        Con SmartPay su recaudación está a salvo.
+        El acceso en línea permite disponer de información inmediata.
+        Los equipos reportan, cualquier incidencia/necesidad de mantenimiento."
       button:
         enable: true
-        label: "Check Features"
-        link: "#/"
+        label: "Ver Monederos"
+        link: "/products"
 
     # about product item loop
-    - image: "images/showcase/showcase-3.png"
-      title: "Lorem ipsum dolor sit amet."
+    - image: "images/truckscales.png"
+      title: "Aplicaciones disponibles."
       content:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-        sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-        quas, quo harum deserunt consequatur cumque!"
+        "Básculas de camiones Públicas
+         Accesos y paquines.
+         Donaciones en centros benéficos.
+         Controles de aforos en eventos y zonas con aforo restringido.
+
+         **!Consulte su necesidad¡**"
       button:
-        enable: false
-        label: "Check Features"
-        link: "#/"
+        enable: true
+        label: "Contacto"
+        link: "/contact"
 
 #################################### Products ########################
 products:
-  enable: true
-  title: "Checkout Our All Products"
+  enable: false
+  title: "Modelos disponibles"
 
 ################################## Subscription ###################
 subscription:
   enable: true
   bg_image: "images/call-to-action.jpg"
-  title: "Get Product Updates"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder: "Your Email Address Here"
+  title: "Te contactamos"
+  content: "envianos un correo y nosotros nos pondremos en contacto."
+  placeholder: "Tu email de contacto aquí"
 
 ############################## Testimonial ##########################
 testimonial:
-  enable: true
-  title: "Watch Review"
+  enable: false
+  title: "Experiencias"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "Manuel Chivite"
+      designation: "Secretario ayuntamiento"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "El equipo nos solucionó todo el problema en la báscula publica de hurtos y averías que el sistema tradicional con monedas nos ocasionaba."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "J.M. Martinez"
+      designation: "Alcalde "
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: " Hace tiempo que podiamos garantizar el servicio y no operabamos con la báscula. Ahora la población dispone de un servico nuevo y el mismo equipo lo hemos montado en el control de bombas para cargar las cisternas de los tractores."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
+    - name: "Manuel Domingo"
+      designation: "sacerdote"
       image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content: "El nuevo sistema de donaciones ha sido todo un exito. Nuestras dudas  eran si sería fácil de usar, pero nuestros feligreses, han incorporado su utilización muy rápidamente, y hasta los más mayores pueden usar su móvil para su donación. Gracias"

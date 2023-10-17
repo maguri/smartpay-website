@@ -1,5 +1,5 @@
 ---
-title: "QR App"
+title: "Totem"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/terminal-tottem.png"
@@ -8,11 +8,11 @@ images:
   - "images/mobile2.png"
 
 # meta description
-description : "Terminal Tottem amb peu"
+description : "Terminal Totem amb peu"
 
 # product Price
-price: "5.750,00"
-discount_price: "4.950,00"
+price: "€ 5.750,00"
+discount_price: "€ 4.950,00"
 
 # product variation
 colors : ["gris","inox", "Alumini"]

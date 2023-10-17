@@ -3,21 +3,18 @@ title: "Contacte"
 description : "Contact page"
 
 office:
-  title : "Oficines Centrals"
-  # mobile : "0124857985320"
-  email : "demo@dastions.com"
+  title : "Oficina Central"
+  email : "info@dastions.com"
   location : "Barcelona, Catalonia"
-  content : "Pot sol·licitar més informació o una Demo a comercial."
+  content : "Pot sol·licitar més informació."
 
 # opennig hour
 opennig_hour:
-  title : "Horaris d'Atenció al Client"
+  title : "Atenció al Client"
+  mobile : "+34 977 13 12 06"
   day_time:
-    - "Dll: 10:00 – 16:00"
-    - "Dm: 10:00 – 16:00"
-    - "Dc: 10:00 – 16:00"
-    - "Dj: 10:00 – 16:00"
-    - "Dv: 10:00 – 14:00"
+    - "De dilluns a divendres:"
+    - "10:00 – 13:00"
     
 draft: false
 ---

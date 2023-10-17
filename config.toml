@@ -1,13 +1,13 @@
 ################################### Default Configuration ############################
-baseurl = "https://smartpay.dastions.com"
-title = "SmartPay Wallet Catalunya | Landing Site"
+# baseurl = "https://smartpay.dastions.com"
+title = "SmartPay Terminal | TruckScale"
 theme = "digital-vex-hugo"
 # post excert
 summarylength = "20"
 # google analytics
 googleAnalytics = "" # Ex: UA-123-45
 # disable language
-defaultContentLanguage = "cat"
+defaultContentLanguage = "es"
 disableLanguages = ['en'] # disable language from here
 
 # unsafe html
@@ -43,12 +43,12 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
-name = "Inici"
+name = "Inicio"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Productes"
+name = "Productos"
 url = "products/"
 weight = 2
 
@@ -58,13 +58,13 @@ weight = 2
 # weight = 3
 
 [[menu.main]]
-name = "Valoracions"
+name = "Valoraciones"
 pre = "#"
 url = "testimonial"
 weight = 4
 
 [[menu.main]]
-name = "Contacte"
+name = "Contacto"
 url = "contact/"
 weight = 5
 
@@ -75,7 +75,7 @@ weight = 5
 # weight = 1
 
 [[menu.footer]]
-name = "Contacte"
+name = "Contact"
 url = "contact/"
 weight = 2
 
@@ -98,7 +98,7 @@ logo_width = "150px"
 description = "Plataform Wallet Payment"
 author = "Digital Application Solutions SL"
 # currency
-currency = "€"
+currency = ""
 # contact form action
 contact_form_action = "https://formspree.io/f/mjvzjwpk" # contact form works with https://formspree.io
 
@@ -125,7 +125,7 @@ mailchimp_form_name = ""    # replace this code with yours
 languageName = "Cat"
 languageCode = "es-cat"
 contentDir = "content/catalan"
-weight = 1
+weight = 2
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"
 
@@ -134,7 +134,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [D
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 2
+weight = 3
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"
 
@@ -143,6 +143,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [D
 languageName = "Es"
 languageCode = "es-es"
 contentDir = "content/spanish"
-weight = 3
+weight = 1
 # copyright
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"
