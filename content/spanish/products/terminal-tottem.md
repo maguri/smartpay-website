@@ -12,7 +12,7 @@ description : "Terminal Totem de pie"
 
 # product Price
 price: "€ 5.750,00"
-discount_price: "€ 4.850,00"
+discount_price: "€ 4.950"
 
 # product variation
 colors : ["gris","inox", "totem"]
@@ -23,6 +23,7 @@ button_link: "contact"
 
 draft: false
 ---
+## Promoción / Precio de Lanzamiento 
 
 Terminal de Pagament sense monedes, 100% Online y segur.
 Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.

@@ -11,8 +11,8 @@ images:
 description : "Terminal de Paret"
 
 # product Price
-price: "€ 3.550,00"
-discount_price: "€ 2.950,00"
+price: "€ 4.950,00"
+discount_price: "€ 4.150"
 
 # product variation
 colors : ["gris","inox", "Alumini"]
@@ -23,6 +23,7 @@ button_link: "contact"
 
 draft: false
 ---
+## Promoció / Preu de Llançament
 
 Servei web online per un petit poble que vulgui començar amb 1 o 2 Moneders i no requereixi molts usuaris amb targeta física QR.
 - **1 usuari** Administrador.

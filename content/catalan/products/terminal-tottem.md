@@ -12,7 +12,7 @@ description : "Terminal Totem amb peu"
 
 # product Price
 price: "€ 5.750,00"
-discount_price: "€ 4.950,00"
+discount_price: "€ 4.950"
 
 # product variation
 colors : ["gris","inox", "Alumini"]
@@ -23,7 +23,7 @@ button_link: "contact"
 
 draft: false
 ---
-
+## Promoció / Preu de Llançament
 Terminal de Pagament sense monedes, 100% Online y segur.
 Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.
 Sistema compatible amb: bàscules, sistemes de neteja, pàrquing...

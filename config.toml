@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
-baseurl = "https://smartpay.dastions.com"
-title = "SmartPay Terminal | TruckScale"
+baseurl = "https://www.appsmartpay.com"
+title = "App SmartPay | Terminal | TruckScale"
 theme = "digital-vex-hugo"
 # post excert
 summarylength = "20"

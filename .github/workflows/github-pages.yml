@@ -32,7 +32,7 @@ jobs:
         run: |
           ls -la
           hugo -s .
-          echo "smartpay.dastions.com" >> public/CNAME
+          echo "www.appsmartpay.com" >> public/CNAME
 
       - name: Check
         run: |

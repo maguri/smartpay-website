@@ -11,8 +11,8 @@ images:
 description : "Terminal de Paret"
 
 # product Price
-price: "€ 3.550,00"
-discount_price: "€ 2.950,00"
+price: "€ 4.950,00"
+discount_price: "€ 4.150 (PVP)"
 
 # product variation
 colors : ["gris","inox", "Alumini"]
@@ -23,6 +23,7 @@ button_link: "contact"
 
 draft: false
 ---
+## Promoción / Precio de Lanzamiento 
 
 Terminal de Pagament sense monedes, 100% Online y segur.
 Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.
