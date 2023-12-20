@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://www.appsmartpay.com"
-title = "App SmartPay | Terminal | TruckScale"
+title = "App SmartPay | Terminal Desatendido"
 theme = "digital-vex-hugo"
 # post excert
 summarylength = "20"
@@ -95,8 +95,8 @@ weight = 3
 logo = "images/logo.png"
 logo_width = "150px"
 # Meta data
-description = "Plataform Wallet Payment"
-author = "Digital Application Solutions SL"
+description = "Plataforma de pago para servicios desatendidos | Payment Platform for Truck Scales"
+author = "Dastions.com"
 # currency
 currency = ""
 # contact form action
