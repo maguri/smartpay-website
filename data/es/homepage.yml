@@ -25,7 +25,7 @@ features:
       # feature item loop
     - title: "Pago seguro"
       icon: "tf-ion-card"
-      content: "Maxima prioridad en la seguridad de pago en línia, tarjeta de bancaria y web
+      content: "Maxima prioridad en la seguridad de pago en línia, tarjeta bancaria y web
       ."
 
       # feature item loop
@@ -41,14 +41,14 @@ features:
       content: "Diseño exterior estandar y en pared, facil de instalar."
 
       # feature item loop
-    - title: "Conectaté en linea"
+    - title: "Conectados en linea"
       icon: "tf-ion-ios-people"
       content: "Accesibilidad por internet o 4G/5G."
 
       # feature item loop
-    - title: "Multiples servicios"
+    - title: "Múltiples servicios"
       icon: "tf-ion-ios-barcode-outline"
-      content: "Puede dar servicio a diferentes necesidades o servicios."
+      content: "Abierto a diferentes necesidades o servicios."
 
 ############################# promo ############################
 promo:
@@ -56,9 +56,9 @@ promo:
   image: "images/mobile2.png"
   title: "Diseñado desde la experiencia, posibilidades ilimitadas."
   content:
-    " Con nuestra experiencia y necesidades de nuestros clientes hemos diseñado para básculas municipales, sistema de riego, servicio de pago en parking, donativos y accesos.
+    "Eschuchando las necesidades de nuestros clientes hemos diseñado un sistema de pago adaptado para básculas municipales, sistema de riego, control de accesos, parking, donativos.
     <br><br>
-    Facilitamos la gestión y administración para mejorar el servicio y la atención ciudadana.
+    Plataforma de gestión en servicios públicos mejorando la atención ciudadana.
     Creamos comunidad."
 
 ############################# About Product #######################
@@ -70,7 +70,7 @@ about_product:
     - image: "images/town-es.png"
       title: "Diseñado para ayuntamientos."
       content:
-        "Los hurtos en dispositivos de monedas exteriores han generado una gran desconfianza en los **servicios publicos**.
+        "Los hurtos en dispositivos de monedas exteriores han generado una gran desconfianza en los **servicios públicos**.
         
         Con SmartPay su recaudación está a salvo.
         El acceso en línea permite disponer de información inmediata.
@@ -110,14 +110,14 @@ subscription:
 
 ############################## Testimonial ##########################
 testimonial:
-  enable: false
+  enable: true
   title: "Experiencias"
   testimonial_item:
     # testimonial item loop
     - name: "Manuel Chivite"
       designation: "Secretario ayuntamiento"
       image: "images/avater.png"
-      content: "El equipo nos solucionó todo el problema en la báscula publica de hurtos y averías que el sistema tradicional con monedas nos ocasionaba."
+      content: "El equipo nos solucionó todo el problema en la báscula pública de hurtos y averías que el sistema tradicional con monedas ocasiona."
 
     # testimonial item loop
     - name: "J.M. Martinez"
@@ -126,7 +126,7 @@ testimonial:
       content: " Hace tiempo que podiamos garantizar el servicio y no operabamos con la báscula. Ahora la población dispone de un servico nuevo y el mismo equipo lo hemos montado en el control de bombas para cargar las cisternas de los tractores."
 
     # testimonial item loop
-    - name: "Manuel Domingo"
+    - name: "José Domingo"
       designation: "sacerdote"
       image: "images/avater.png"
       content: "El nuevo sistema de donaciones ha sido todo un exito. Nuestras dudas  eran si sería fácil de usar, pero nuestros feligreses, han incorporado su utilización muy rápidamente, y hasta los más mayores pueden usar su móvil para su donación. Gracias"
