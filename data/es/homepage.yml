@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Cree en la Tecnologia y haz el cambio"
+  title: "Cree en la Tecnología y haz el cambio"
   content: "Te presentamos el Terminal de pago sin monedas más moderno del mercado destinado para cualquier servicio. Acepta de forma rápida y segura **pagos online**. Facilita al ciudadano el uso de cualquier servicio."
   image: "images/terminal-tottem.png"
   button:
