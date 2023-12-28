@@ -40,9 +40,9 @@ features:
       content: "Nou Disseny estàndard i integral, fàcil d'instal·lar en espais exteriors."
 
       # feature item loop
-    - title: "Connectat En linea"
+    - title: "Connectat Online"
       icon: "tf-ion-ios-people"
-      content: "Fem Comunitat d'usuaris i ajuntaments per Digitalitzar els pobles."
+      content: "Sistema Cloud, Accesibilitat remota per internet."
 
       # feature item loop
     - title: "Múltiples Serveis"

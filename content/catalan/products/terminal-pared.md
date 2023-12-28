@@ -31,7 +31,7 @@ Servei web online per un petit poble que vulgui començar amb 1 o 2 Moneders i n
 - 1 o més Terminal vinculable a l'Aplicació de l'Ajuntament.
     - *Terminals Extras disponibles*
 
-Aquesta tarifa inclou Gestions y Mantenimient del Servei En Linea.
+Aquesta tarifa inclou Gestions y Mantenimient del Servei Online.
 *No inclou Accés de Internet a Camp*
 
 **Pagament segur amb cumplment de:**

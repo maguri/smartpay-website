@@ -30,7 +30,7 @@ Servei web online per la gestió dels usuaris, pagaments i transaccions del seu 
 - 1 o més Terminals vinculables a l'Aplicació de la propietat.
     - *Terminals Extres disponibles*
 
-Aquesta tarifa inclou Gestions y Mantenimient del Servei En Linea.
+Aquesta tarifa inclou Gestions y Mantenimient del Servei Online.
 *No inclou Accés de Internet a Camp*
 
 **Pagament segur amb cumplment de:**

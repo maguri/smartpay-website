@@ -30,7 +30,7 @@ Servicio web online para la gestión de usuarios, pagos y transaccionesun para 1
 - 1 Terminal vinculable a l'Aplicación de la propiedad.
     - *Terminales Extra disponibles*
 
-Incluye Gestiones y Mantenimiento del Servicio En Linea.
+Incluye Gestiones y Mantenimiento del Servicio Online.
 *No incluye el Internet a Campo*
 
 **Pago seguro con cumpliento de:**

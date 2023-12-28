@@ -41,9 +41,9 @@ features:
       content: "Diseño exterior estándar y en pared, fácil de instalar."
 
       # feature item loop
-    - title: "Conectados en linea"
+    - title: "Conectados en el CLoud"
       icon: "tf-ion-ios-people"
-      content: "Accesibilidad por internet o 4G/5G."
+      content: "Accesibilidad Remota por internet."
 
       # feature item loop
     - title: "Múltiples servicios"

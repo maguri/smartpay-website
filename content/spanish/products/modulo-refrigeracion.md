@@ -2,7 +2,7 @@
 title: "Módulo Térmico"
 date: 2023
 images: 
-  - "images/frontal-pared.png"
+  - "images/termal-kit.png"
 
 # meta description
 description : "Módulo Térmico para el calor y el frío"
