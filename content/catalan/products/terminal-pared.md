@@ -25,18 +25,18 @@ draft: false
 ---
 ## Promoció / Preu de Llançament
 
-Servei web online per un petit poble que vulgui començar amb 1 o 2 Moneders i no requereixi molts usuaris amb targeta física QR.
-- **1 usuari** Administrador.
-- Identificació per **targeta QR única** física o virtual.
-- 1 o més Terminal vinculable a l'Aplicació de l'Ajuntament.
-    - *Terminals Extras disponibles*
+**Terminal de Pagament sense monedes**, 100% Online i segur.
+Permet identificar usuaris amb **cupons desconte** amb el lector QR.
 
-Aquesta tarifa inclou Gestions y Mantenimient del Servei Online.
-*No inclou Accés de Internet a Camp*
+Sistema compatible amb: bàscula de camions, sistema de bomba d'agua...
 
-**Pagament segur amb cumplment de:**
-- *Certificat PCI*
-- *Informes de Controls de Sistemes i Organizacions (CSO)*
-- *Marc en ciberseguretat del NIST*
-[leer más...](/terms-conditions/)
+Diseny Antivandàlic per a caseta / paret: Construcció alumini pintat al forn.
+Opció d'afegir **Logo distribuidor personalitzable**.
+
+- Conectat a App i Pagament Online.
+- Impresora tíquet 80mm i **Ticket Digital**.
+- Lector QR. Identificació d'usuaris i Cupons
+- ~~TPV: Pago Contacless.~~
+
+*Sujeto a Town/City Plan* [leer más...](../plan-town)
 

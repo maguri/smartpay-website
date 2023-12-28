@@ -8,7 +8,7 @@ images:
   - "images/mobile2.png"
 
 # meta description
-description : "Terminal de Paret"
+description : "Terminal de Pared"
 
 # product Price
 price: "€ 4.950,00"
@@ -25,23 +25,18 @@ draft: false
 ---
 ## Promoción / Precio de Lanzamiento 
 
-Terminal de Pagament sense monedes, 100% Online y segur.
-Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.
-Sistema compatible amb: bàscules, sistemes de neteja, pàrquing...
-Disseny Antivandàlic: embegut en obra civil. Construcció inoxidable o aluminio pintat al forn.
-Impressora tiquet i tiquet digital en App.
+**Terminal de Pago sin monedas**, 100% Online y seguro.
+Permite identificar usuarios con **cupones descuento** con el lector QR.
 
-**Inclou:**
-- Opció QR: Mitjançant App i 2FA Pagament Online.
-- Opció QR Socis amb Servei Gratuït.
-- Opció Cupons de descompte
-- ~~Opció TPV: Pagament Estàndar Bancari amb Targeta Contacless.~~
+Sistema compatible con: báscula de camiones, sistema de bombeo de agua...
 
-*No inclou Tarifa ni Connexió a Internet, o 4G.*
+Diseño Antivandálico para caseta / pared: Construcción aluminio pintado al horno.
+Opción de añadir **Logo distribuidor personalizable**.
 
-**Pagament segur amb cumplment de:**
-- *Certificat PCI*
-- *Informes de Controls de Sistemes i Organizacions (CSO)*
-- *Marc en ciberseguretat del NIST*
-[leer más...](/terms-conditions/)
+- Conectado App y Pago Online.
+- Impresora tíquet 80mm y **Tíquet Digital** en App.
+- Lector QR. Identificación y Cupones
+- ~~TPV: Pago Contacless.~~
+
+*Sujeto a Town/City Plan* [leer más...](../plan-town)
 

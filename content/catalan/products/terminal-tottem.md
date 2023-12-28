@@ -24,23 +24,19 @@ button_link: "contact"
 draft: false
 ---
 ## Promoció / Preu de Llançament
-Terminal de Pagament sense monedes, 100% Online y segur.
-Permet identificar Socis e usuaris amb descompte amb el lector QR incorporat.
-Sistema compatible amb: bàscules, sistemes de neteja, pàrquing...
-Disseny Antivandàlic: Construcció inoxidable o aluminio pintat al forn.
-Impresora tiquet i tiquet digital en App.
 
-**Inclou:**
-- Opció QR: Mitjançant App i 2FA Pagament Online.
-- Opció QR Socis amb Servei Gratuït.
-- Opció Cupons de descompte
-- ~~Opció TPV: Pagament Estàndar Bancari amb Targeta Contacless.~~
+**Terminal de Pagament sense monedes**, 100% Online i segur.
+Permet identificar usuaris amb **cupons desconte** amb el lector QR.
 
-*No inclou Tarifa ni Connexió a Internet, o 4G.*
+Sistema compatible amb: bàscula de camions, sistema de bomba d'agua...
 
-**Pagament segur amb cumplment de:**
-- *Certificat PCI*
-- *Informes de Controls de Sistemes i Organizacions (CSO)*
-- *Marc en ciberseguretat del NIST*
-[leer más...](/terms-conditions/)
+Diseny Antivandàlic Totem: Construcció alumini pintat al forn.
+Opció d'afegir **Logo distribuidor personalitzable**.
+
+- Conectat a App i Pagament Online.
+- Impresora tíquet 80mm i **Ticket Digital**.
+- Lector QR. Identificació d'usuaris i Cupons
+- ~~TPV: Pago Contacless.~~
+
+*Sujeto a Town/City Plan* [leer más...](../plan-town)
 
