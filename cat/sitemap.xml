@@ -54,6 +54,19 @@
                 href="https://www.appsmartpay.com/cat/products/plan-city/"
                 />
   </url><url>
+    <loc>https://www.appsmartpay.com/cat/products/terminal-pared/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.appsmartpay.com/products/terminal-pared/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cat"
+                href="https://www.appsmartpay.com/cat/products/terminal-pared/"
+                />
+  </url><url>
     <loc>https://www.appsmartpay.com/cat/blog/post-1/</loc>
     <lastmod>2019-10-17T11:22:16+06:00</lastmod>
     <xhtml:link
@@ -117,19 +130,6 @@
                 rel="alternate"
                 hreflang="cat"
                 href="https://www.appsmartpay.com/cat/blog/post-4/"
-                />
-  </url><url>
-    <loc>https://www.appsmartpay.com/cat/products/terminal-pared/</loc>
-    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.appsmartpay.com/products/terminal-pared/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://www.appsmartpay.com/cat/products/terminal-pared/"
                 />
   </url><url>
     <loc>https://www.appsmartpay.com/cat/products/terminal-tottem/</loc>
