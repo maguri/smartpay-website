@@ -1,5 +1,5 @@
 ---
-title: "City Plan"
+title: "City App"
 date: 2022-11-01T10:00:00+06:00
 images: 
   - "images/city-plan.png"
@@ -25,15 +25,17 @@ draft: false
 ---
 
 Servicio web online para la gestión de usuarios, pagos y transaccionesun para 1 o más Monederos.
-- **1 usuari** Administrador.
+- **Múltiples Terminales**.
 - Identificación por **targeta QR única** física o virtual.
-- 1 o más Terminales vinculables a l'Aplicación de la propiedad.
-    - *Terminales Extra disponibles*
 
-Incluye Gestiones y Mantenimiento del Servicio Online.
+Tarifa Disponible según el cosum o comisión mensual.
+- **0.00 € / mes** con Tarifa de *5% + 0.85 €*
+- **50.00 € / mes** con Tarifa de *3% + 0.45 €*
+- Incluye Mantenimient del Servei Online.
+
 *No incluye el Internet a Campo*
 
-**Pago seguro con cumpliento de:**
+**Pago seguro y Certificado**
 - *Certificate PCI*
 - *Informes de Control de Sistemas y Organizaciones (CSO)*
 - *Marco en ciberseguridad del NIST*

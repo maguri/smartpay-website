@@ -1,5 +1,5 @@
 ---
-title: "Town Plan"
+title: "Town App"
 date: 2022-11-01T10:00:00+06:00
 images: 
   - "images/town-plan.png"
@@ -24,16 +24,17 @@ button_link: "/contact"
 draft: false
 ---
 
-Servicio web online para la gestión de usuarios, pagos y transaccionesun para 1 o más Monederos.
-- **1 usuari** Administrador.
+Servicio web online para la gestión de usuarios, pagos y transaccionesun para 1 Monedero.
+- **1 Terminales**.
 - Identificación por **targeta QR única** física o virtual.
-- 1 Terminal vinculable a l'Aplicación de la propiedad.
-    - *Terminales Extra disponibles*
 
-Incluye Gestiones y Mantenimiento del Servicio Online.
+Tarifa Estándar según el cosumo.
+- **0.00 € / mes** con Tarifa de *5% + 0.85 €*
+- Incluye Mantenimient del Servei Online.
+
 *No incluye el Internet a Campo*
 
-**Pago seguro con cumpliento de:**
+**Pago seguro y Certificado**
 - *Certificate PCI*
 - *Informes de Control de Sistemas y Organizaciones (CSO)*
 - *Marco en ciberseguridad del NIST*

@@ -1,5 +1,5 @@
 ---
-title: "Town Plan"
+title: "Town App"
 date: 2022-11-01T10:00:00+06:00
 images: 
   - "images/town-plan.png"
@@ -25,15 +25,16 @@ draft: false
 ---
 
 Servei web online per la gestió dels usuaris, pagaments i transaccions del seus Moneders.
-- **1 usuari** Administrador.
+- **1 Terminal**.
 - Identificació per **targeta QR única** física o virtual.
-- 1 Terminal vinculable a l'Aplicació de l'Ajuntament.
-    - *Terminals Extres disponibles*
 
-Aquesta tarifa inclou Gestions y Mantenimient del Servei Online.
+Tarifa Estándar segons el cosum sense comisions mensuals.
+- **0.00 € / mes** amb Tarifa de *5% + 0.85 €*
+- Inclou Gestions y Mantenimient del Servei Online.
+
 *No inclou Accés de Internet a Camp*
 
-**Pagament segur amb cumplment de:**
+**Pagament segur i Certificats**
 - *Certificat PCI*
 - *Informes de Controls de Sistemes i Organizacions (CSO)*
 - *Marc en ciberseguretat del NIST*

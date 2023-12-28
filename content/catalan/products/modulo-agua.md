@@ -23,7 +23,7 @@ draft: false
 
 Conexió del Terminal per a Serveis de dosificació en **Bomba d'Agua** agrícola.
 
-- Tarifes personalizades
+- Tarifes personalitzades.
 - Sistema conectat a la App **SmartPay**.
 
 *Demana'ns informació sense compromís*
