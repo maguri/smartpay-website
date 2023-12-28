@@ -12,7 +12,7 @@ description : "Plan Web para la plataforma Monedero SmartPay Wallet"
 
 # product Price
 # price: " 2049,50"
-discount_price: "Servicio web"
+discount_price: "Servei web"
 
 # product variation
 # colors : ["black","white","gray"]

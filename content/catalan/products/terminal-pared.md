@@ -1,5 +1,5 @@
 ---
-title: "Terminal Basic"
+title: "Basic Terminal"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/frontal-pared.png"
@@ -30,7 +30,7 @@ Permet identificar usuaris amb **cupons desconte** amb el lector QR.
 
 Sistema compatible amb: bàscula de camions, sistema de bomba d'agua...
 
-Diseny Antivandàlic per a caseta / paret: Construcció alumini pintat al forn.
+Disseny Antivandàlic per a caseta / paret: Construcció alumini pintat al forn.
 Opció d'afegir **Logo distribuidor personalitzable**.
 
 - Conectat a App i Pagament Online.
@@ -38,5 +38,5 @@ Opció d'afegir **Logo distribuidor personalitzable**.
 - Lector QR. Identificació d'usuaris i Cupons
 - ~~TPV: Pago Contacless.~~
 
-*Sujeto a Town/City Plan* [leer más...](../plan-town)
+*Subjecte a Town/City Plan* [saber-ne més...](../plan-town)
 
