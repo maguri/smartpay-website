@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Cree en la Tecnología y haz el cambio"
+  title: "Transformando el Futuro Juntos"
   content: "Te presentamos el Terminal de pago sin monedas más moderno del mercado destinado para cualquier servicio. Acepta de forma rápida y segura **pagos online**. Facilita al ciudadano el uso de cualquier servicio."
   image: "images/terminal-tottem.png"
   button:
@@ -25,7 +25,7 @@ features:
       # feature item loop
     - title: "Pago seguro"
       icon: "tf-ion-card"
-      content: "Maxima prioridad en la seguridad de pago en línia, tarjeta bancaria y web
+      content: "Máxima prioridad en la seguridad de pago online, tarjeta bancaria y web
       ."
 
       # feature item loop
@@ -38,7 +38,7 @@ features:
     # feature item loop
     - title: "Diseño ergonómico y elegante"
       icon: "tf-pencil2"
-      content: "Diseño exterior estandar y en pared, facil de instalar."
+      content: "Diseño exterior estándar y en pared, fácil de instalar."
 
       # feature item loop
     - title: "Conectados en linea"
