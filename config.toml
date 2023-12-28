@@ -127,7 +127,7 @@ languageCode = "es-cat"
 contentDir = "content/catalan"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"
+copyright = "Designed By [Compossar](https://compossar.es) & Powered by [Digital Application Solutions](https://www.dastions.com)"
 
 ################################### English language #####################################
 [Languages.en]
@@ -136,7 +136,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 3
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"
+copyright = "Designed By [Compossar](https://compossar.es) & Powered by [Digital Application Solutions](https://www.dastions.com)"
 
 ################################### English language #####################################
 [Languages.es]
@@ -145,4 +145,4 @@ languageCode = "es-es"
 contentDir = "content/spanish"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Powered by [Digital Application Solutions](#)"
+copyright = "Designed By [Compossar](https://compossar.es) & Powered by [Digital Application Solutions](https://www.dastions.com)"
