@@ -220,18 +220,6 @@
                 href="https://www.appsmartpay.com/cat/tags/"
                 />
   </url><url>
-    <loc>https://www.appsmartpay.com/cat/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.appsmartpay.com/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://www.appsmartpay.com/cat/privacy-policy/"
-                />
-  </url><url>
     <loc>https://www.appsmartpay.com/cat/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -242,6 +230,18 @@
                 rel="alternate"
                 hreflang="cat"
                 href="https://www.appsmartpay.com/cat/terms-conditions/"
+                />
+  </url><url>
+    <loc>https://www.appsmartpay.com/cat/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.appsmartpay.com/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cat"
+                href="https://www.appsmartpay.com/cat/privacy-policy/"
                 />
   </url>
 </urlset>
