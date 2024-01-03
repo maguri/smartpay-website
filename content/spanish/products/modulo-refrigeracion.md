@@ -8,8 +8,8 @@ images:
 description : "Módulo Térmico para el calor y el frío"
 
 # product Price
-# price: "€ 255,00"
-discount_price: "Accesorio"
+# price: "355 €"
+discount_price: "325 €"
 
 # product variation
 colors : ["Frío","Calor", "Opcional"]
@@ -21,5 +21,5 @@ button_link: "contact"
 draft: false
 ---
 
-Descripcion
+La Resistencia calefactora con ventilador para armarios eléctricos proporciona calefacción continua (a 10° C) de 200...470 Watt, puede funcionar con un rango de voltaje de 230 V AC (50/60 Hz) y garantiza un control fiable de la temperatura dentro del armario, recomendado, también, para prevenir condensación. La resistencia calefactora para armarios eléctricos incluye borne de conexión rápida y material de fijación.
 

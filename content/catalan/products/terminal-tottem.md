@@ -6,13 +6,14 @@ images:
   - "images/qr-app.png"
   - "images/mobile1.png"
   - "images/mobile2.png"
+  - "images/frontal-general.png"
 
 # meta description
 description : "Terminal Totem amb peu"
 
 # product Price
-price: "€ 5.750,00"
-discount_price: "€ 4.950"
+price: "5.750 € (PVP)"
+discount_price: "4.900 €"
 
 # product variation
 colors : ["gris","inox", "Alumini"]

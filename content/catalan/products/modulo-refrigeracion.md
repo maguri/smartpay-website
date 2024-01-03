@@ -1,5 +1,5 @@
 ---
-title: "Módulo Térmico"
+title: "Mòdul Tèrmic"
 date: 2023
 images: 
   - "images/termal-kit.png"
@@ -8,8 +8,9 @@ images:
 description : "Módulo Térmico para el calor y el frío"
 
 # product Price
-# price: "€ 255,00"
-discount_price: "Accesorio"
+# price: "355 €"
+# discount_price: "Accesorio"
+discount_price: "325 €"
 
 # product variation
 colors : ["Frío","Calor", "Opcional"]
@@ -21,5 +22,5 @@ button_link: "contact"
 draft: false
 ---
 
-Descripcion
+La Resistència calefactora amb ventilador per a armaris elèctrics proporciona escalfament continu (a 10° C) de 200...470 Watt, pot funcionar amb un rang de voltatge de 230 V AC (50/60 Hz) i garanteix un control fiable de la temperatura dins de l'armari, recomanat, també, per prevenir condensació. La resistència calefactora per a armaris elèctrics inclou born de connexió ràpida i material de fixació.
 

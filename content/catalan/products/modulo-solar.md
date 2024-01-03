@@ -1,5 +1,5 @@
 ---
-title: "Módul Solar"
+title: "Mòdul Solar"
 date: 2023
 images: 
   - "images/solar-kit.png"

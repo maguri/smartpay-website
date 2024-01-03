@@ -1,10 +1,51 @@
 ---
-title: "Terminos & Condiciones"
+title: "Términos & Condiciones"
 description : "Smart pay terminos y condiciones de pago seguro"
 draft: false
 ---
 
 Por favor, lea los términos y condiciones que se indican a continuación, los cuales detallan muchas disposiciones legales, pero la conclusión es que nuestro objetivo es siempre cuidar de ambos, ya sea como cliente o como vendedor. Hemos incluido muchas de estas condiciones para protegernos legalmente, pero si tiene algún problema, no dude en escribirnos a SmartPay y haremos nuestro mejor esfuerzo para resolverlo de manera justa y oportuna.
+
+### Hardware
+
+### Condiciones Generales de Garantía
+
+Todos los elementos de hardware tienen una garantía de un año, contado desde la fecha de la factura del equipo. La garantía para el software será de dos años e incluirá asistencia en línea para cubrir cualquier error o mal funcionamiento.
+
+En caso de cualquier anomalía o defecto durante el período de garantía, el elemento deteriorado deberá enviarse a nuestra fábrica. Una vez analizado y confirmado que la incidencia se debe a un mal funcionamiento desde el inicio, se sustituirá sin cargo, enviándolo de vuelta a su destino.
+
+La garantía no cubre los costos de desplazamiento ni la asistencia en el campo. La instalación de los equipos debe ser realizada por personal cualificado y acreditado por Dastions, siguiendo el manual de montaje y servicio proporcionado. La responsabilidad recae en el instalador en caso de instalación incorrecta o defectuosa.
+
+Durante el período de garantía, se deben seguir las siguientes pautas:
+
+No realizar reparaciones o reemplazo de componentes electrónicos en las tarjetas del instrumento sin autorización expresa de Dastions.
+
+- Utilizar únicamente piezas de repuesto originales.
+- Cualquier alteración de la máquina o uso de piezas no originales anulará la garantía y eximirá al fabricante de toda responsabilidad.
+- Antes de cualquier instalación o operación de reparación que implique el acceso a componentes electrónicos, desconectar el aparato y cualquier fuente de energía (batería, red de 230V u otro sistema).
+- Utilizar siempre fuentes de alimentación de red reguladas dentro del ± 10% del voltaje nominal.
+- En aplicaciones relacionadas con terceros, seguir las especificaciones descritas en el Decreto de homologación del equipo.
+- No sumergir el aparato en agua.
+- No lavar con chorros de agua.
+- Protegerlo de la lluvia directa.
+- No utilizar disolventes u otras sustancias agresivas para la limpieza.
+- No instalar en ambientes explosivos.
+- Conectar a tierra cualquier puesta a tierra colocada en la carcasa del dispositivo, utilizando un cable con un diámetro no inferior a 16 mm2.
+
+
+### Política de Soporte en Hardware
+
+Todo el **Soporte Online** está sujeto al periodo de garantía de instalación (1 mes tras su compra). El Soporte proporcionado fuera de este tiempo será facturado bajo la tarifa estándar de asistencia técnica. Si el problema informado es un error interno de SmartPay este se solucionará sin costes de asistencia remota sin incluir los cargos de transporte o desplazamiento ocasionado por dicho problema. SmartPay no es responable de la asistencia en el punto de instalación. Es responsabilidad del distribuidor dar asistencia física en la instalación cumpliendo con la filosofía de negocio *B2B2C*.
+
+El instalador del equipo debe cumplir con las condiciones de garantía general especificadas en el apartado anterior para el reembolso en su compra.
+
+1) En los productos de hardware que ofrece SmartPay (*Dastions.com*), emitimos reembolsos bajo garantía tras inspeccionar técnicamente el equipo. Si hay algún problema con uno de los productos o si experimenta alguna anomalía en la instalación, debe informarnos antes de poner en funcionamiento el equipo y solucionaremos el problema.
+2) Tiene 1 mes para inspeccionar su compra y determinar si no cumple con las expectativas establecidas por SmartPay. En caso de que desee recibir un reembolso, SmartPay le emitirá un reembolso y le pedirá que especifique cómo el producto no cumplió con las expectativas y reenvie el equipo a nuestro almacén.
+3) Cuando realice una devolución, acreditaremos la tarifa al completo, menos los cargos de transporte. Los reembolsos generalmente se procesan dentro de 3 a 5 días hábiles después de recibir su reclamo, revisar el quipo y determinar que es elegible para una devolución. Los reembolsos se aplican por transferencia bancaria.
+
+*Cualquier uncumplimiento de la **Guía de Instalación**, o incidencia debido a subidas de tensión, rayos, manipulaciones incorrectas o uso indebido de los equipos, anulará el período de garantía y posible reembols.*
+
+## Plataforma Online
 
 ### Seguridad en el Pago
 

@@ -6,13 +6,14 @@ images:
   - "images/qr-app.png"
   - "images/mobile1.png"
   - "images/mobile2.png"
+  - "images/frontal-general.png"
 
 # meta description
 description : "Terminal de Paret"
 
 # product Price
-price: "€ 4.950,00"
-discount_price: "€ 4.150"
+price: "4.950 € (PVP)"
+discount_price: "4.210 €"
 
 # product variation
 colors : ["gris","inox", "Alumini"]

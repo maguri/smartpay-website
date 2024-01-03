@@ -3,6 +3,7 @@ title: "Terminal Basic"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/frontal-pared.png"
+  - "images/frontal-general.png"
   - "images/qr-app.png"
   - "images/mobile1.png"
   - "images/mobile2.png"
@@ -11,11 +12,11 @@ images:
 description : "Terminal de Pared"
 
 # product Price
-price: "€ 4.950,00"
-discount_price: "€ 4.150 (PVP)"
+price: "4.950 € (PVP)"
+discount_price: "4.210 €"
 
 # product variation
-colors : ["gris","inox", "Alumini"]
+colors : ["gris","inox", "Aluminio"]
 # sizes : ["small","medium","large"]
 
 # button link if you don't want to use snipcart. empty link will not show button

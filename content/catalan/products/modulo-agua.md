@@ -1,5 +1,5 @@
 ---
-title: "Módul Bomba d'Agua"
+title: "Mòdul Bomba d'Agua"
 date: 2023
 images: 
   - "images/bomba-agua-kit.png"
