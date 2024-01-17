@@ -184,6 +184,19 @@
                 href="https://www.appsmartpay.com/products/modulo-refrigeracion/"
                 />
   </url><url>
+    <loc>https://www.appsmartpay.com/products/catalogo-comercial/</loc>
+    <lastmod>1970-01-01T00:33:43+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cat"
+                href="https://www.appsmartpay.com/cat/products/catalogo-comercial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.appsmartpay.com/products/catalogo-comercial/"
+                />
+  </url><url>
     <loc>https://www.appsmartpay.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
