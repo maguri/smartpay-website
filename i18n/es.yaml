@@ -12,6 +12,8 @@
 
 - id: "contact"
   translation: "Contactenos"
+- id: "download"
+  translation: "Descargar"
 - id: "name"
   translation: "Nombre"
 - id: "email"

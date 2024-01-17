@@ -9,7 +9,8 @@
   
 - id: "subscribe"
   translation: "Contactar"
-
+- id: "download"
+  translation: "Descargar"
 - id: "contact"
   translation: "Contacte"
 - id: "name"
