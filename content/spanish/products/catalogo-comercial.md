@@ -2,7 +2,10 @@
 title: "Tríptico"
 date: 2023
 images: 
-  - "images/triptic.png"
+  - "images/docs/triptic-1.png"
+  - "images/docs/triptic-2.png"
+  - "images/docs/triptic-3.png"
+  - "images/docs/triptic-4.png"
 
 # meta description
 description : "Descarga nuestro catálogo"
