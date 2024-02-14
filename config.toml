@@ -1,11 +1,9 @@
 ################################### Default Configuration ############################
 baseurl = "https://www.appsmartpay.com"
-title = "App SmartPay | Terminal Desatendido"
+title = "Terminal De Pago"
 theme = "digital-vex-hugo"
 # post excert
 summarylength = "20"
-# google analytics
-googleAnalytics = "" # Ex: UA-123-45
 # disable language
 defaultContentLanguage = "es"
 disableLanguages = ['en'] # disable language from here
