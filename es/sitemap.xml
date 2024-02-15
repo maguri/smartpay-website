@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.appsmartpay.com/</loc>
-    <lastmod>2022-11-01T10:00:00+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cat"
-                href="https://www.appsmartpay.com/cat/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.appsmartpay.com/"
-                />
-  </url><url>
     <loc>https://www.appsmartpay.com/products/plan-city/</loc>
     <lastmod>2022-11-01T10:00:00+06:00</lastmod>
     <xhtml:link
@@ -26,6 +13,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.appsmartpay.com/products/plan-city/"
+                />
+  </url><url>
+    <loc>https://www.appsmartpay.com/</loc>
+    <lastmod>2022-11-01T10:00:00+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cat"
+                href="https://www.appsmartpay.com/cat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.appsmartpay.com/"
                 />
   </url><url>
     <loc>https://www.appsmartpay.com/products/</loc>
