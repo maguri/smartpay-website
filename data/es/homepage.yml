@@ -1,8 +1,8 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Transformando el Futuro Juntos"
-  content: "Te presentamos el Terminal de pago sin monedas más moderno del mercado destinado para cualquier servicio. Acepta de forma rápida y segura **pagos online**. Facilita al ciudadano el uso de cualquier servicio."
+  title: "¡Facilitamos el pago, impulsamos tu negocio!"
+  content: "Descubre la solución definitiva para optimizar tus servicios desatendidos con nuestra innovadora **app de pago**. ¡Únete a la revolución digital y potencia tu negocio hoy mismo!"
   image: "images/terminal-tottem.png"
   button:
     enable: true
@@ -81,11 +81,12 @@ about_product:
         link: "/products"
 
     # about product item loop
-    - image: "images/truckscales.png"
+    - image: "images/car-wash.png"
       title: "Aplicaciones disponibles."
       content:
-        "Básculas de camiones Públicas
-         Accesos y paquines.
+        "Lavaderos de Coches,
+         Básculas Públicas
+         Accesos y parquímetros.
          Donaciones en centros benéficos.
          Controles de aforos en eventos y zonas con aforo restringido.
 
