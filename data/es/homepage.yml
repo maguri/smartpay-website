@@ -111,7 +111,7 @@ subscription:
 
 ############################## Testimonial ##########################
 testimonial:
-  enable: true
+  enable: false
   title: "Experiencias"
   testimonial_item:
     # testimonial item loop
