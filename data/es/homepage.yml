@@ -68,13 +68,11 @@ about_product:
   items:
     # about product item loop
     - image: "images/town-es.png"
-      title: "Diseñado para ayuntamientos."
+      title: "Simplificando Pagos y Transacciones para Tu Servicios"
       content:
-        "Los hurtos en dispositivos de monedas exteriores han generado una gran desconfianza en los **servicios públicos**.
-        
-        Con SmartPay su recaudación está a salvo.
-        El acceso en línea permite disponer de información inmediata.
-        Los equipos reportan, cualquier incidencia/necesidad de mantenimiento."
+        Optimiza tus transacciones y potencia tu negocio hoy mismo.
+
+        Descubre cómo AppSmartPay puede mejorar la **gestión de pagos**. Terminales adaptables a **múltiples aplicaciones**, tenemos todo lo que necesitas.
       button:
         enable: true
         label: "Ver Monederos"
