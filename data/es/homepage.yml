@@ -68,9 +68,9 @@ about_product:
   items:
     # about product item loop
     - image: "images/town-es.png"
-      title: "Simplificando Pagos y Transacciones para Tu Servicios"
+      title: "Leasing y Concesión Disponible"
       content:
-        Optimiza tus transacciones y potencia tu negocio hoy mismo.
+        Baja Inversión para mejorar tus servicios y potencia tu negocio hoy mismo.
 
         Descubre cómo AppSmartPay puede mejorar la **gestión de pagos**. Terminales adaptables a **múltiples aplicaciones**, tenemos todo lo que necesitas.
       button:

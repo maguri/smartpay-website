@@ -12,8 +12,8 @@ images:
 description : "Terminal de Paret"
 
 # product Price
-price: "4.950 € (PVP)"
-discount_price: "4.210 €"
+price: "Compra"
+discount_price: "Renting"
 
 # product variation
 colors : ["gris","inox", "Alumini"]

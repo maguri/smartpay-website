@@ -12,8 +12,8 @@ images:
 description : "Terminal Totem amb peu"
 
 # product Price
-price: "5.750 € (PVP)"
-discount_price: "4.900 €"
+price: "Compra"
+discount_price: "Renting"
 
 # product variation
 colors : ["gris","inox", "Alumini"]

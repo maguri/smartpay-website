@@ -66,9 +66,10 @@ about_product:
   items:
     # about product item loop
     - image: "images/town.png"
-      title: "Dissenyat pel teu Ajuntament"
+      title: "Leasing i Concesió Disponible"
       content:
-        "Amb una xarxa de comercials experts en el servei dedicat a integrar. 
+        "Facilitem la inversió per millorar els teus serveis i potenciar el teu negoci.
+        
         Plans i Tarifes adaptats a les necessitats"
       button:
         enable: true

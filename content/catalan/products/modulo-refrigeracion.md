@@ -9,8 +9,7 @@ description : "Módulo Térmico para el calor y el frío"
 
 # product Price
 # price: "355 €"
-# discount_price: "Accesorio"
-discount_price: "325 €"
+discount_price: "Accesorio"
 
 # product variation
 colors : ["Frío","Calor", "Opcional"]
