@@ -12,7 +12,7 @@ images:
 description : "Terminal Totem amb peu"
 
 # product Price
-price: "Compra"
+price: "Comprar"
 discount_price: "Renting"
 
 # product variation
