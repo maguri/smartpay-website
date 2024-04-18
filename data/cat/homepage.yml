@@ -66,7 +66,7 @@ about_product:
   items:
     # about product item loop
     - image: "images/town.png"
-      title: "Leasing i Concesió Disponible"
+      title: "Leasing i Concessió Disponible"
       content:
         "Facilitem la inversió per millorar els teus serveis i potenciar el teu negoci.
         
