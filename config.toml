@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://www.appsmartpay.com"
-title = "Terminal De Pago"
+title = "Terminal De Servicios Pago Online"
 theme = "digital-vex-hugo"
 # post excert
 summarylength = "20"
