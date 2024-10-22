@@ -53,7 +53,7 @@ features:
 promo:
   enable: true
   image: "images/mobile2.png"
-  title: "Paga desde el mònbil de forma fàcil i segura."
+  title: "Paga desde el mòbil de forma fàcil i segura."
   content:
     "Amb l'experiència de professionals del sector públic i de camp, s'ha dissenyat un servei per garantir les necessitats reals dels ajuntaments.
     <br><br>
@@ -62,7 +62,7 @@ promo:
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Inversió mínima per començar a cobrar"
+  title: "Inversió mínima per començar a recaudar"
   items:
     # about product item loop
     - image: "images/town.png"
