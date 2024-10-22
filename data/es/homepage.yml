@@ -1,7 +1,7 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "¡Facilitamos el pago, impulsamos tu negocio!"
+  title: "¡Sistema de pago para tu negocio!"
   content: "Descubre la solución definitiva para optimizar tus servicios desatendidos con nuestra innovadora **app de pago**. ¡Únete a la revolución digital y potencia tu negocio hoy mismo!"
   image: "images/terminal-tottem.png"
   button:
@@ -54,7 +54,7 @@ features:
 promo:
   enable: true
   image: "images/mobile2.png"
-  title: "Diseñado desde la experiencia, posibilidades ilimitadas."
+  title: "Paga desde el móvil de forma fácil y segura."
   content:
     "Eschuchando las necesidades de nuestros clientes hemos diseñado un sistema de pago adaptado para básculas municipales, sistema de riego, control de accesos, parking, donativos.
     <br><br>
@@ -64,7 +64,7 @@ promo:
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "¿Porqué SmartPay Wallet?"
+  title: "Sistema minimalista y barato"
   items:
     # about product item loop
     - image: "images/town-es.png"
@@ -80,7 +80,7 @@ about_product:
 
     # about product item loop
     - image: "images/car-wash.png"
-      title: "Aplicaciones disponibles."
+      title: "Conecta tus Servicios de Pago"
       content:
         "Lavaderos de Coches,
          Básculas Públicas
