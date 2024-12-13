@@ -1,4 +1,8 @@
 ############################# banner ############################
+demo:
+  link: "https://app.appsmartpay.com"
+  label: "Entrar"
+
 banner:
   enable: true
   title: "¡Sistema de pago para tu negocio!"
