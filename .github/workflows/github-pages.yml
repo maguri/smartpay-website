@@ -41,7 +41,7 @@ jobs:
           ls -la public
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.4.0  # Upgrade to a stable latest version
+        uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
           branch: gh-pages
           folder: public
