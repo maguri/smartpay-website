@@ -6,26 +6,27 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # Future-proof: Explicitly specify the latest Ubuntu version
+
     env:
       THEME: digital-vex-hugo
 
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2.3.1
+        uses: actions/checkout@v4  # Upgrade to the latest version
 
-      - name: Check go
+      - name: Check Go
         run: go version
 
-      - name: Install Hugo 🔧
+      - name: Install Hugo
         run: |
           sudo apt update
-          sudo apt install hugo
+          sudo apt install -y hugo
 
       - name: Add Theme
         run: |
           ls -la
-          mkdir themes
+          mkdir -p themes
           git clone --depth 1 https://github.com/maguri/$THEME.git themes/$THEME/
 
       - name: Build Website
@@ -34,14 +35,13 @@ jobs:
           hugo -s .
           echo "www.appsmartpay.com" >> public/CNAME
 
-      - name: Check
+      - name: Verify Build Output
         run: |
           ls -la
           ls -la public
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: JamesIves/github-pages-deploy-action@4.4.0  # Upgrade to a stable latest version
         with:
           branch: gh-pages
           folder: public
-
