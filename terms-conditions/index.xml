@@ -8,5 +8,12 @@
     <language>es-es</language>
     <copyright>© [2022] AppSmartPay. Todos los derechos reservados. Powered by [Digital Application Solutions](https://www.dastions.com)</copyright>
     <atom:link href="https://www.appsmartpay.com/terms-conditions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.appsmartpay.com/terms-conditions/ajuntaments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.appsmartpay.com/terms-conditions/ajuntaments/</guid>
+      <description>Condicions d’ús i accés Ajuntament de Margalef L’Ajuntament de Margalef informa que no es faran devolucions en cap cas un cop efectuat el pagament corresponent a l’accés o reserva dels espais regulats (zones de l’embassament i de Sant Salvador).</description>
+    </item>
   </channel>
 </rss>
